@@ -1,5 +1,5 @@
 INSERT INTO series (title) VALUES
-('lord of the rings'), ('hobbit');
+('lord of the rings'), ('northern lights');
 
 INSERT INTO books (title) values
 ('hobbit 1'), ('hobbit 2'), ('hobbit 3'),
@@ -11,3 +11,9 @@ INSERT INTO characters (name) VALUES
 ('gandalf'), ('frodo'), ('gimli'),
 ('bilbo'), ('legolas'), ('boromir'),
 ('sam'), ('aragon');
+
+INSERT INTO subgenres (name) VALUES
+('middle earth'), ('other place');
+
+INSERT INTO authors (name) VALUES
+('tolkien'), ('pullman')
