@@ -2,7 +2,7 @@ INSERT INTO series (title) VALUES
 ('lord of the rings'), ('his dark materials');
 
 INSERT INTO books (title) values
-('northern'), ('hobbit 2'), ('hobbit 3'),
+('northern lights'), ('subtle knife'), ('amber spyglass'),
 ('fellowship of the rings'),
 ('two towers'),
 ('return of the king');
