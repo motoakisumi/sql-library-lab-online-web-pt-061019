@@ -14,3 +14,8 @@ CREATE TABLE authors(
   name TEXT,
   id INTEGER PRIMARY KEY
 )
+
+CREATE TABLE books(
+  title TEXT,
+  year INTEGER
+)
