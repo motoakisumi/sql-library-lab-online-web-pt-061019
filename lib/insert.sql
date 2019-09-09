@@ -10,4 +10,4 @@ INSERT INTO books (title) values
 INSERT INTO characters (name) VALUES
 ('gandalf'), ('frodo'), ('gimli'),
 ('bilbo'), ('legolas'), ('boromir'),
-('sam');
+('sam'), ('aragon');
