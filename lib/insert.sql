@@ -10,7 +10,7 @@ INSERT INTO books (title) values
 INSERT INTO characters (name) VALUES
 ('gandalf'), ('frodo'), ('gimli'),
 ('bilbo'), ('legolas'), ('boromir'),
-('sam'), ('aragon');
+('lyra'), ('Pantalaimon');
 
 INSERT INTO subgenres (name) VALUES
 ('middle earth'), ('other place');
