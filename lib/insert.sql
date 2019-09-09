@@ -7,4 +7,4 @@ INSERT INTO books (title) values
 ('two towers'),
 ('return of the king');
 
-INSERT INTO characters
+INSERT INTO characters (name) values
