@@ -7,4 +7,7 @@ INSERT INTO books (title) values
 ('two towers'),
 ('return of the king');
 
-INSERT INTO characters (name) values
+INSERT INTO characters (name) VALUES
+('gandalf'), ('frodo'), ('gimli'),
+('bilbo'), ('legolas'), ('boromir'),
+('sam'),('gollum'),('aragon')
