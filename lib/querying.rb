@@ -21,9 +21,9 @@ end
 
 def select_value_and_count_of_most_prolific_species
   "
-  SELECT character.species, COUNT(character.species) AS value_occurrence
-  FROM character
-  GROUP BY character.species
+  SELECT characters.species, COUNT(characters.species) AS value_occurrence
+  FROM characters
+  GROUP BY characters.species
   ORDER BY value_occurrence DESC
   LIMIT 1;
   "
