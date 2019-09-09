@@ -16,7 +16,7 @@ INSERT INTO subgenres (name) VALUES
 ('middle earth'), ('other place');
 
 INSERT INTO authors (name) VALUES
-('tolkien'), ('pullman')
+('tolkien'), ('pullman');
 
 INSERT INTO character_books (book_id, character_id) VALUES
 (1,1), (1,2), (1,3), (1,4), (1,5), (1,6),
