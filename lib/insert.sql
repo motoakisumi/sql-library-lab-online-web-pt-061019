@@ -8,9 +8,8 @@ INSERT INTO books (title) VALUES
 ('return of the king');
 
 INSERT INTO characters (name) VALUES
-('gandalf'), ('frodo'), ('gimli'),
-('bilbo'), ('legolas'), ('boromir'),
-('lyra'), ('Pantalaimon');
+('bilbo'), ('frodo'), ('boromir'),('ent'),
+('lyra'), ('Pantalaimon'), ('Will'), ('Mary');
 
 INSERT INTO subgenres (name) VALUES
 ('middle earth'), ('other place');
