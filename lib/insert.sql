@@ -1,8 +1,8 @@
 INSERT INTO series (title) VALUES
-('lord of the rings'), ('northern lights');
+('lord of the rings'), ('his dark materials');
 
 INSERT INTO books (title) values
-('hobbit 1'), ('hobbit 2'), ('hobbit 3'),
+('northern'), ('hobbit 2'), ('hobbit 3'),
 ('fellowship of the rings'),
 ('two towers'),
 ('return of the king');
@@ -17,3 +17,6 @@ INSERT INTO subgenres (name) VALUES
 
 INSERT INTO authors (name) VALUES
 ('tolkien'), ('pullman')
+
+INSERT INTO character_books (book_id, character_id)
+VALUES ()
