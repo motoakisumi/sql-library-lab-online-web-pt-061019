@@ -1,3 +1,3 @@
 UPDATE characters
 SET species = "Martian"
-ORDER BY id desc limit 1
+ORDER BY id desc LIMIT 1
